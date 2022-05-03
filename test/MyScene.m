@@ -2,7 +2,7 @@
 //  MyScene.m
 //  test
 //
-//  Created by davylew on 13-12-18.
+//  Created by davylew on 22-12-18.
 //  Copyright (c) 2013年 davylew. All rights reserved.
 //
 
